@@ -1,5 +1,4 @@
-/api/*  https://mern-course-jobify-e4jv.onrender.com/api/:splat  200
-
+/api/*  https://jobify-hsn.vercel.app/api/:splat  200
 /* /index.html 200
 
 
